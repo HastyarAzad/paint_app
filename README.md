@@ -1,4 +1,4 @@
-# first_project
+# simple Paint app
 
 A new Flutter project.
 
